@@ -1,0 +1,5 @@
+tutorial/.idea/*
+.idea/*
+tutorial/json/*
+tutorial/*.pyc
+tutorial/*/*.pyc
